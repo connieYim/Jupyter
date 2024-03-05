@@ -13,7 +13,7 @@
 
 
 
-https://github.com/connieYim/Jupyter/assets/131242654/0c9eebc1-80d3-4a31-b4a7-c719ddd1bcaa
+https://github.com/connieYim/Jupyter/assets/131242654/b62f2587-3cdb-497b-a5f7-60e69eff96dd
 
 
 ### 반자동 스캐너
