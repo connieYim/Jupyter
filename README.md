@@ -13,4 +13,4 @@
 [앱실행](https://github.com/connieYim/Jupyter/blob/main/app28.py)
 
 ### 반자동 스캐너
-[반자동 스캐너]
+[반자동 스캐너](https://github.com/connieYim/Jupyter/blob/main/%EB%B0%98%EC%9E%90%EB%8F%99%20%EB%AC%B8%EC%84%9C%20%EC%8A%A4%EC%BA%90%EB%84%88.ipynb)
