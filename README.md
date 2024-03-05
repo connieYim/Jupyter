@@ -11,13 +11,21 @@
 
 [영화추천사이트](https://github.com/connieYim/Jupyter/blob/main/%EC%98%81%ED%99%94%EC%B6%94%EC%B2%9C(%EC%9D%B8%EA%B8%B0%EB%B3%84%2C%20%EC%8A%A4%ED%86%A0%EB%A6%AC%EB%B3%84%2C%20%EA%B0%90%EB%8F%85%EB%B3%84).ipynb)
 
-<img src="https://github.com/connieYim/Jupyter/assets/131242654/b62f2587-3cdb-497b-a5f7-60e69eff96dd.mp4" width="400" height="350"/>
+
+
+https://github.com/connieYim/Jupyter/assets/131242654/0603fd5c-de59-473b-9a3f-62fd740ba949
+
+
 
 
 ### 반자동 스캐너
 [반자동 스캐너](https://github.com/connieYim/Jupyter/blob/main/%EB%B0%98%EC%9E%90%EB%8F%99%20%EB%AC%B8%EC%84%9C%20%EC%8A%A4%EC%BA%90%EB%84%88.ipynb)
 
-<img src="https://github.com/connieYim/Jupyter/assets/131242654/021be315-203c-4316-948f-42f0dac6884e.mp4" width="400" height="350"/>
+
+
+
+https://github.com/connieYim/Jupyter/assets/131242654/740eb827-fe3d-4749-8c99-f72a4605bfe1
+
 
 
 
