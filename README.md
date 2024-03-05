@@ -11,4 +11,6 @@
 
 [영화추천사이트](https://github.com/connieYim/Jupyter/blob/main/%EC%98%81%ED%99%94%EC%B6%94%EC%B2%9C(%EC%9D%B8%EA%B8%B0%EB%B3%84%2C%20%EC%8A%A4%ED%86%A0%EB%A6%AC%EB%B3%84%2C%20%EA%B0%90%EB%8F%85%EB%B3%84).ipynb)
 [앱실행](https://github.com/connieYim/Jupyter/blob/main/app28.py)
-![영화추천사이트](https://github.com/connieYim/Jupyter/assets/131242654/78289caf-22d7-4509-8264-c35edaeb10cd)
+
+### 반자동 스캐너
+[반자동 스캐너]
