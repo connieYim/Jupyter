@@ -27,7 +27,7 @@ https://github.com/connieYim/Jupyter/assets/131242654/0603fd5c-de59-473b-9a3f-62
 https://github.com/connieYim/Jupyter/assets/131242654/740eb827-fe3d-4749-8c99-f72a4605bfe1
 
 ### 얼굴에 이미지 씌우기
-[이미지씌우기]()
+[이미지씌우기](https://github.com/connieYim/Jupyter/blob/main/%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%94%8C%EC%9A%B0%EA%B8%B0(%EC%98%A4%EB%A5%98%ED%95%B4%EA%B2%B0).ipynb)
 
 
 
